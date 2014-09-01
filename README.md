@@ -8,12 +8,10 @@ Package Dependencies
 
 * accounts-base
 * accounts-oauth
-* rally-oauth
+* shalka:rally-oauth
 
 Install
 -----------
 ```
-mrt add accounts-rally
+meteor add shalka:accounts-rally
 ```
-
-```mrt``` is a Meteorite command line tool. Visit [Meteorite's page](http://oortcloud.github.com/meteorite/) to learn more.
