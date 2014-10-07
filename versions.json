@@ -34,7 +34,7 @@
     ],
     [
       "deps",
-      "1.0.0"
+      "1.0.1"
     ],
     [
       "ejson",
@@ -54,7 +54,7 @@
     ],
     [
       "htmljs",
-      "1.0.0-cordova1"
+      "1.0.0"
     ],
     [
       "http",
@@ -74,7 +74,7 @@
     ],
     [
       "livedata",
-      "1.0.0"
+      "1.0.7"
     ],
     [
       "localstorage",
@@ -82,7 +82,7 @@
     ],
     [
       "logging",
-      "1.0.0"
+      "1.0.2"
     ],
     [
       "meteor",
@@ -90,15 +90,15 @@
     ],
     [
       "minifiers",
-      "1.0.0"
+      "1.0.2"
     ],
     [
       "minimongo",
-      "1.0.0"
+      "1.0.1"
     ],
     [
       "mongo-livedata",
-      "1.0.0"
+      "1.0.3"
     ],
     [
       "oauth",
@@ -110,7 +110,7 @@
     ],
     [
       "observe-sequence",
-      "1.0.0"
+      "1.0.1"
     ],
     [
       "ordered-dict",
@@ -126,7 +126,7 @@
     ],
     [
       "routepolicy",
-      "1.0.0-cordova1"
+      "1.0.0"
     ],
     [
       "service-configuration",
@@ -142,7 +142,7 @@
     ],
     [
       "spacebars-compiler",
-      "1.0.0"
+      "1.0.1"
     ],
     [
       "templating",
@@ -150,7 +150,7 @@
     ],
     [
       "ui",
-      "1.0.1-rc0"
+      "1.0.0"
     ],
     [
       "underscore",
@@ -158,10 +158,10 @@
     ],
     [
       "webapp",
-      "1.0.0"
+      "1.0.2"
     ]
   ],
   "pluginDependencies": [],
-  "toolVersion": "meteor-tool@1.0.26",
+  "toolVersion": "meteor-tool@1.0.33",
   "format": "1.0"
 }
